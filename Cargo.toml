@@ -5,6 +5,7 @@ members = [
     "llama-cpp-2",
     "examples/embeddings",
     "examples/simple",
+    "examples/async",
 ]
 
 [workspace.dependencies]
